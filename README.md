@@ -48,3 +48,5 @@ dicas;
 • Dicas de atalhos;
 • Dicas de estudos;
 • Introdução ao Git/Github.
+
+<p>Elas Unidas</p>
