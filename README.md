@@ -17,8 +17,7 @@
         <section>
             <h3>Sobre o grupo</h3>
             <ul>
-                <li>Monitoras: Rayane Pimentel e Sabrina Pereira (presencial e online), Mônica Craveiro (apenas online).
-                </li>
+                <li>Monitoras: <a href="https://www.linkedin.com/in/rayanepimentel/" target="_blank">Rayane Pimentel</a> Rayane Pimentel e <a href="https://www.linkedin.com/in/sabrina-pereira-da-silva-spds/" target="_blank">Sabrina Pereira</a>(presencial e online), <a href="https://www.linkedin.com/in/monica-craveiro-de-menezes/" target="_blank">Monica Craveiro</a>(apenas online).</li>
                 <li>Encontros: presencial e online</li>
                 <li>Fecebook: <a href="https://www.facebook.com/groups/elasunidas/" target="_blank">Link para grupo do
                         facebook</a></li>
