@@ -102,7 +102,7 @@
                     Academy, assistir
                     "Introdução a CSS/Mais tags HTML" realizando os
                     desafios.</li>
-               <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/a77ba09f-c838-42cc-b319-c34de73e9421/ElasUnidas_Cronograma2019_Semana3e4_1_.pdf">Clique aqui para
+               <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/a77ba09f-c838-42cc-b319-c34de73e9421/ElasUnidas_Cronograma2019_Semana3e4_1_.pdf" target="_blank">Clique aqui para
                         baixar o cronograma</a></li>
             </ul>
         </section>
@@ -120,7 +120,7 @@
                     Academy, assistir
                     Introdução a CSS realizando os
                     desafios.</li>
-               <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/a77ba09f-c838-42cc-b319-c34de73e9421/ElasUnidas_Cronograma2019_Semana3e4_1_.pdf">Clique aqui para
+               <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/a77ba09f-c838-42cc-b319-c34de73e9421/ElasUnidas_Cronograma2019_Semana3e4_1_.pdf" target="_blank">Clique aqui para
                         baixar o cronograma</a></li>
             </ul>
         </section>
