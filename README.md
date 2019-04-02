@@ -66,6 +66,23 @@
                     desafios.</li>
             </ul>
         </section>
+       <section>
+            <h2 id="semana02">Semana 02</h2>
+            <p>Introdução a HTML e CSS</p>
+            <ul>
+                <li>Ler o conteúdo da apostila
+                    Caelum 
+                    tópico 2.10 até o item 2.18.</li>
+                <li>Inscrição na plataforma
+                    Khan Academy;
+                </li>
+                <li>Se logar na Khan
+                    Academy, assistir
+                    Introdução a CSS e
+                    treinar realizando os
+                    desafios.</li>
+            </ul>
+        </section>
     </article>
 
 </body>
