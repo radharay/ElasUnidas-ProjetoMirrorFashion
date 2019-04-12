@@ -47,7 +47,8 @@
                 <li><a href="#semana01">Semana 01</a></li>
                 <li><a href="#semana02">Semana 02</a></li>
                 <li><a href="#semana03">Semana 03</a></li>
-                <li><a href="#semana04">Semana 04</a></li>
+               <li><a href="#semana04">Semana 04</a></li>
+               <li><a href="#semana05">Semana 05</a></li>
             </ol>
         </section>
         <section>
@@ -121,6 +122,24 @@
                     Introdução a CSS realizando os
                     desafios.</li>
                <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/a77ba09f-c838-42cc-b319-c34de73e9421/ElasUnidas_Cronograma2019_Semana3e4_1_.pdf" target="_blank">Clique aqui para
+                        baixar o cronograma</a></li>
+            </ul>
+        </section>
+       <section>
+            <h2 id="semana05">Semana 05</h2>
+            <p>Mais HTML e CSS</p>
+            <ul>
+                <li>Ler o conteúdo da apostila
+                    Caelum 
+                   (tópico 4, itens 4.1 ao item 4.09).</li>
+                <li>Inscrição na plataforma
+                    Khan Academy;
+                </li>
+                <li>Se logar na Khan
+                    Academy, assistir
+                     "Propriedades de texto CSS"  realizando os
+                    desafios.</li>
+               <li><a href="https://gallery.mailchimp.com/48b6a69ffc05f2c2b651c2851/files/767cc239-63a9-4673-8eba-a4d225a6c265/ElasUnidas_Cronograma2019_Semana5e6.pdf" target="_blank">Clique aqui para
                         baixar o cronograma</a></li>
             </ul>
         </section>
